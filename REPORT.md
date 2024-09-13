@@ -7,7 +7,7 @@
    ![Снимок экрана 2024-09-13 221553](https://github.com/user-attachments/assets/3553e736-4586-480f-82ea-a114fc3ad8c1)
 5) После скачивания всех пакетов перезапускаем виртуальную машину
    Перед нами открывается окно для ввода имени пользователя и пароля, после входа мы видим рабочий стол.
-   ![image](https://github.com/user-attachments/assets/2a9b9d72-864d-40bc-b8ed-6bb7f86cc26a)
+   ![image](https://github.com/user-attachments/assets/a9178d0f-362e-4bf0-a461-31974bf12302)
+
 6) Нам нужно зайти в меню с программами и поиском и найти терминал
 7) Открываем терминал и вводим 
-   ![image](https://github.com/user-attachments/assets/2a9b9d72-864d-40bc-b8ed-6bb7f86cc26a)
