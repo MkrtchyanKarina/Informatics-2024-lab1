@@ -21,4 +21,5 @@
 10) Запускаем файл и вводим полное имя
     ![image](https://github.com/user-attachments/assets/311e9fec-4092-4e44-bcf5-2b8f22cb3000)
 11) Любуемся нашим приветствием и идем пить кофе :)
+   ![image](https://github.com/user-attachments/assets/6b2c6b0b-6709-427f-9878-e593e2af46d0)
 
