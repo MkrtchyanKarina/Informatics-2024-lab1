@@ -9,5 +9,6 @@
    Перед нами открывается окно для ввода имени пользователя и пароля, после входа мы видим рабочий стол.
    ![Снимок экрана 2024-09-13 222830](https://github.com/user-attachments/assets/aed85332-4eed-47e0-8850-432aa8605e81)
 6) Нам нужно зайти в меню с программами и поиском и найти терминал
-   ![image](https://github.com/user-attachments/assets/1f239a9e-8c91-4023-9433-8ed30ed30e79)
+   ![image](https://github.com/user-attachments/assets/f0f4992d-c3e0-4e18-aa18-12abce7575f2)
+
 
